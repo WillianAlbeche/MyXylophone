@@ -1,2 +1,2 @@
 # MyXylophone
-This project pretend create a simple Xylophone using UKkit, swift and AVFoundation
+This project pretend create a simple Xylophone using UKit, Swift and AVFoundation
